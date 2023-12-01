@@ -1,0 +1,14 @@
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\PrefinalGarateAdolfina.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\PrefinalGarateAdolfina.Entidades.AssemblyInfoInputs.cache
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\PrefinalGarateAdolfina.Entidades.AssemblyInfo.cs
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\PrefinalGarateAdolfina.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\bin\Debug\net6.0\PrefinalGarateAdolfina.Entidades.exe
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\bin\Debug\net6.0\PrefinalGarateAdolfina.Entidades.deps.json
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\bin\Debug\net6.0\PrefinalGarateAdolfina.Entidades.runtimeconfig.json
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\bin\Debug\net6.0\PrefinalGarateAdolfina.Entidades.dll
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\bin\Debug\net6.0\PrefinalGarateAdolfina.Entidades.pdb
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\PrefinalGarateAdolfina.Entidades.dll
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\refint\PrefinalGarateAdolfina.Entidades.dll
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\PrefinalGarateAdolfina.Entidades.pdb
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\PrefinalGarateAdolfina.Entidades.genruntimeconfig.cache
+C:\Users\adolf\source\repos\PrefinalGarateAdolfina\PrefinalGarateAdolfina.Entidades\obj\Debug\net6.0\ref\PrefinalGarateAdolfina.Entidades.dll
